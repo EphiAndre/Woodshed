@@ -1,0 +1,10 @@
+# Separazione
+demucs==4.1.0
+torch>=2.1
+numpy
+soundfile
+imageio-ffmpeg
+# Finestra desktop
+pywebview>=5.0
+# Pacchetto
+pyinstaller>=6.0
